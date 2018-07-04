@@ -3,7 +3,7 @@
 echo "tester"
 # permission file: chmod u+x /path/to/file.command
 
-for topdirectories in */
+for topdirectories in sot_map_tiles/*/
 do
     #echo "-$topdirectories"
     for xdirs in $topdirectories*/
