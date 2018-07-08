@@ -5,6 +5,11 @@ Repository for the map tiles for the [Sea Of Thieves Map](https://github.com/Che
 
 For issues and discussion, please use the main project Github page.
 
+
+Currently using a zoomed in (2x) version of the map. Might swap back.
+
+
+
 Credits & Licence
 --------------------------------------
 The Sea Of Thieves icons &amp; map are the property of [RARE](https://www.seaofthieves.com/) and are used without permission.
